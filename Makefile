@@ -1,4 +1,4 @@
-IMAGE=ueniueni/arm32v7-psql-client
+IMAGE=ueniueni/arm32v7.psql-client
 
 .PHONY: tag
 tag:
